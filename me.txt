@@ -1,0 +1,2 @@
+ adding new data will make and help check on 
+ computer bias and application regression training
